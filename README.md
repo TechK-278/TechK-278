@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently learning dsa,web dev and data science<br>i am going to start some project on what i am learning .<br>i am persuing btech cse degree from nirma university<br>i like to solve logical problems <br>i have knowledge of c,c++,python,introduction of ai-ml ,html,css,java script.
+B.Tech CSE student at Nirma University
+Learning DSA, Web Development & Data Science
+Strong interest in logical problem solving
+Tech stack: C, C++, Python, HTML, CSS, JavaScript | Exploring AI/ML
+Building projects and improving every day 🚀
 
 
 ## 🌐 Socials:
