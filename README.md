@@ -1,5 +1,5 @@
 # 💫 About Me:
-B.Tech CSE student at Nirma University<br>Learning DSA, Web Development & Data Science<br>Strong interest in logical problem solving<br>Tech stack: C, C++, Python, HTML, CSS, JavaScript | Exploring AI/ML<br>Building projects and improving every day 🚀
+B.Tech CSE student at Nirma University<br>Learning DSA, Web Development & Data Science<br>Strong interest in logical problem solving<br>Tech stack: C, C++, Python, HTML, CSS, JavaScript, Reat | Exploring AI/ML<br>Building projects and improving every day 🚀
 
 
 ## 🌐 Socials:
